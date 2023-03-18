@@ -1,0 +1,67 @@
+.btnsearch
+{
+    height: 40px;
+    width: 40px;   
+    margin-left: -40px;
+}
+/* .loginreg
+{
+    margin-left: -60px;
+    margin-top: 30px;
+} */
+a:link,a:visited,a:active
+{
+    text-decoration: none;
+    color: black;
+}
+a:link:hover
+{
+    color: orange;
+}
+.hide
+{
+    display: none;
+}
+.hide1
+{
+    display: none;
+}
+.a1:hover >.hide
+{
+    display: block;
+}
+img:hover
+{
+    zoom:100%;
+}
+.slickslider
+{
+    height: 150px;
+    width: 150px;    
+    border-radius: 50%;
+    
+   border: 1px white solid;
+}
+.hide
+{
+    display: none;
+}
+.img1:hover> .hide
+{
+    display: block;
+}
+.deal
+{
+    
+    background-image: url('images/blog-6_02d68299-7a7d-4597-87ff-057bdbf9928d_600x400_crop_center.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.deal1
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+}
